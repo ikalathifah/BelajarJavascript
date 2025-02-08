@@ -1,6 +1,7 @@
 // Example 
 const thisYear = 2022
-if (thisYear === 2022) {  document.getElementById('example').innerText = thisYear
+if (thisYear === 2022) {
+  document.getElementById('example').innerText = thisYear
 }
 // End of Example
 
@@ -8,7 +9,8 @@ if (thisYear === 2022) {  document.getElementById('example').innerText = thisYea
 const nextYear = 2024
 if (nextYear != 2026) {
   document.getElementById('Case1').innerText = nextYear + ' is not 2026'
-} else { document.getElementById('Case1').innerText = nextYear + ' is 2026'
+} else {
+  document.getElementById('Case1').innerText = nextYear + ' is 2026'
 }
 // End of Case 1
 
